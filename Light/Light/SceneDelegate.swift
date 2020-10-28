@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Light
 //
-//  Created by MXC Swift on 7/25/20.
+//  Created by MXC Swift on 7/26/20.
 //  Copyright © 2020 Ashley Williams. All rights reserved.
 //
 
