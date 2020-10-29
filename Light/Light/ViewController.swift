@@ -35,8 +35,8 @@ class ViewController: UIViewController {
 //new line will be added here for daylight button
     }
     @IBAction func moonLightButton(_ sender: UIButton) {
-        moonLightButtonImage.image=UIImage(named:"MOONLIGHT")
-        
+//        moonLightButtonImage.image=UIImage(named:"MOONLIGHT")
+//        
         // new line will be added here for moonlight button
     }
     @IBAction func buttonPressed(_ sender: Any){
